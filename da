@@ -1,0 +1,67 @@
+[33mcommit a64d0b5b6af9b12fdf317bfe997aa1014773f5ac[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 89a14dc 3f00184
+Author: CTAditya <aditya@customtechnologies.biz>
+Date:   Thu Feb 6 16:10:38 2025 +0530
+
+    Merged with test_branch
+
+[33mcommit 3f001848aa5d3ca93ead08360f00ef2383004f80[m[33m ([m[1;31morigin/test_branch[m[33m)[m
+Author: CTAditya <aditya@customtechnologies.biz>
+Date:   Thu Feb 6 15:40:27 2025 +0530
+
+    Added Counter
+
+[33mcommit 89a14dcb22d5c7a16cda292e337acf4384e5c5ee[m
+Author: CTAditya <aditya@customtechnologies.biz>
+Date:   Thu Feb 6 14:28:42 2025 +0530
+
+    Updated Main
+
+[33mcommit 101a3d2d228c46bfeb54990e30a0f74207b3be42[m
+Author: CTAditya <aditya@customtechnologies.biz>
+Date:   Thu Feb 6 14:23:51 2025 +0530
+
+    testing test branch
+
+[33mcommit fa0bd9346a711ce0729dc066db9726dff56d3860[m
+Author: CTAditya <aditya@customtechnologies.biz>
+Date:   Thu Feb 6 14:22:22 2025 +0530
+
+    Empty
+
+[33mcommit 086a5befedac63a0f00a13954b487bc1ad93e3a4[m[33m ([m[1;31morigin/feature_y[m[33m)[m
+Merge: ec53b36 c853b04
+Author: CTAditya <aditya@customtechnologies.biz>
+Date:   Wed Feb 5 14:38:21 2025 +0530
+
+    Pre Merge
+
+[33mcommit c853b04250f0b3167a842fbb0d1fe9303d601305[m[33m ([m[1;31morigin/feature_x[m[33m)[m
+Author: CTAditya <aditya@customtechnologies.biz>
+Date:   Wed Feb 5 13:08:22 2025 +0530
+
+    Adding changes to match the latest main branch
+
+[33mcommit ec53b36789f05f8f04554e2015374bfad193119f[m
+Author: CTAditya <94215169+CTAditya@users.noreply.github.com>
+Date:   Wed Feb 5 13:03:13 2025 +0530
+
+    Update index.html
+
+[33mcommit d5a63102596e973c535cf35d59bce496cef6b42e[m
+Author: CTAditya <aditya@customtechnologies.biz>
+Date:   Wed Feb 5 12:59:31 2025 +0530
+
+    Feature X commit
+
+[33mcommit a800331d13189365023249496adad292a1e038c7[m
+Author: CTAditya <aditya@customtechnologies.biz>
+Date:   Wed Feb 5 12:41:32 2025 +0530
+
+    Initial Commit
+
+[33mcommit 2f340e70f60e6fe128ba5e6f3e5f189d69575670[m
+Author: CTAditya <94215169+CTAditya@users.noreply.github.com>
+Date:   Wed Feb 5 12:36:12 2025 +0530
+
+    Initial commit
